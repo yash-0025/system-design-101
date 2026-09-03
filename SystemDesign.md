@@ -156,3 +156,8 @@ Keep each topic tight — I want density, not length. Use bullet points over par
 101. Once all topics are done, guide me through designing one complete real system end-to-end (I'll pick: URL Shortener / Twitter Feed / WhatsApp Chat / Netflix Streaming / Uber Ride-Matching / E-commerce Checkout), applying everything above with real trade-off justification and a full architecture diagram.
 
 ---
+
+
+## File creation after every prompt 
+
+- Create new file everytime you explain things like Note1.md for first 5 topics then next prompt for next 5 topics create Notes2.md like that. It should store the exact thing you explain the format the diagrams and everything which you show as a output should store same to same, word to word in the file.
