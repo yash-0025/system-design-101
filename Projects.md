@@ -73,7 +73,7 @@ Go through them strictly in this order: Small → Medium (E-Commerce) → Medium
 
 **13. Trade-offs Made** — table of "we chose X over Y because Z" for the 3-5 biggest decisions.
 
-**14. Step-by-Step Eraser.io Diagram Blueprint** — literal numbered build sequence ("Step 1: Create box labeled '___'. Step 2: Create box labeled '___', connect with arrow labeled '___'.") grouped by layer, top-to-bottom, every arrow labeled with what flows on it and sync/async, and which boxes should be visually grouped together.
+**14. Step-by-Step Eraser.io Diagram Blueprint** — literal, ordered, numbered build sequence for drawing manually in Eraser.io ("Step 1: Create box labeled '___'. Step 2: Create box labeled '___', connect with arrow labeled '___'.") grouped by layer, top-to-bottom, with exact visual grouping instructions and every arrow labeled with data flow and sync/async.
 
 ### Rules for how we go through this
 
